@@ -1,7 +1,7 @@
 # Tugas-Slicing-Website-HTML-CSS-JS
 
-Website portofolio pribadi ini dirancang sebagai halaman tunggal (single-page website) yang menyajikan informasi secara terstruktur ke dalam tiga bagian utama:
-Bagian Utamanya (Hero Section): Menampilkan salam sapaan, nama lengkap Ar Rifqi Mohamad Stiawan, asal daerah (Banyuwangi), foto profil, status sebagai mahasiswa Teknologi Informasi Universitas Jember, serta tombol panggilan aksi (call-to-action) "Hubungi aku".
+Website portofolio pribadi ini dirancang sebagai halaman tunggal yang menyajikan informasi secara terstruktur ke dalam tiga bagian utama:
+Bagian Utamanya: Menampilkan salam sapaan, nama lengkap Ar Rifqi Mohamad Stiawan, asal daerah Banyuwangi, foto profil, status sebagai mahasiswa Teknologi Informasi Universitas Jember, serta tombol panggilan aksi (call-to-action) "Hubungi aku".
 Bagian Tentang Aku (Riwayat Pendidikan): Menyajikan alur perjalanan pendidikan secara kronologis dalam bentuk garis waktu (timeline), mulai dari SDN 4 Penganjuran, SMPN 1 Banyuwangi, SMAN Glagah Banyuwangi, hingga jenjang Perguruan Tinggi di Universitas Jember.
 Bagian Kontak: Menyediakan daftar saluran komunikasi resmi, meliputi alamat email, nomor telepon/WhatsApp, serta tautan ke media sosial Instagram dan LinkedIn, lengkap dengan tombol interaktif untuk menyalin teks atau membuka tautan langsung.
 
